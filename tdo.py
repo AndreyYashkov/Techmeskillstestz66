@@ -31,6 +31,7 @@ def add_todo():
         #spisok.append(b)
         slovar2[b] = 'не выполнена'
         i += 1
+        
     print(slovar2)
     #show_todos(spisok)
     #menu()
